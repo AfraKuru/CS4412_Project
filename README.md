@@ -10,6 +10,7 @@ This project applies data mining techniques to discover latent musical structure
 Spotify Tracks Dataset (Kaggle)  
 Over 110,000 tracks with audio features including danceability, energy, tempo, valence, and popularity.
 Dataset source:(https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+               (https://www.kaggle.com/datasets/tomigelo/spotify-audio-features) 
 
 
 ## Planned Techniques
