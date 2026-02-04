@@ -1,6 +1,6 @@
 # Discovering Latent Musical Structure Using Spotify Audio Features
 
-**Course:** CS 4412 – Data Mining  
+**Course:** CS 4412 Data Mining  
 **Student:** Afra Kurudirek  
 
 ## Project Overview
@@ -20,3 +20,8 @@ Dataset source:(https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-d
 - Interpretation of discovered patterns
 
 ## Repository Structure
+- notebooks/  
+  - 01_Data_Understanding.ipynb — Initial data understanding and preprocessing
+- docs/  
+  - Proposal.pdf — Project proposal (IEEE format)
+- README.md — Project overview and dataset description
