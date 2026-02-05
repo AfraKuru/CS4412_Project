@@ -21,8 +21,6 @@ Dataset source:(https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-d
 - Interpretation of discovered patterns
 
 ## Repository Structure
-- notebooks/  
-  - 01_Data_Understanding.ipynb — Initial data understanding and preprocessing
 - docs/  
   - Proposal.pdf — Project proposal (IEEE format)
 - README.md — Project overview and dataset description
