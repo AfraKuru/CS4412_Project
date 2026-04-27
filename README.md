@@ -22,7 +22,8 @@ This project is guided by three key questions:
 - What patterns exist between discovered clusters and attributes such as popularity and explicit content?
 - Are there anomalous tracks that deviate significantly from typical musical patterns?
 
-The emphasis is on unsupervised learning and interpretation, not prediction.
+The emphasis is on unsupervised learning an dinterpretation, not prediction. 
+
 ---
 
 ##  Dataset
